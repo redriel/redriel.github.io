@@ -30,13 +30,165 @@
     </tr>
     <tr>
       <td style="text-align: left">Lamezia Terme</td>
-      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">260§</code></td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">200§</code></td>
       <td style="text-align: left">Master</td>
     </tr>
   </tbody>
 </table>
 
 <h1>Second batch of fighters</h1>
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Fighter</th>
+      <th style="text-align: left">Last Bid</th>
+      <th style="text-align: left">Bid Owner</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">???</td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">0§</code></td>
+      <td style="text-align: left">???</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">???</td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">0§</code></td>
+      <td style="text-align: left">???</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">???</td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">0§</code></td>
+      <td style="text-align: left">???</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">???</td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">0§</code></td>
+      <td style="text-align: left">???</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">???</td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">0§</code></td>
+      <td style="text-align: left">???</td>
+    </tr>
+  </tbody>
+</table>
+
+<h1>Third batch of fighters</h1>
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Fighter</th>
+      <th style="text-align: left">Last Bid</th>
+      <th style="text-align: left">Bid Owner</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">???</td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">0§</code></td>
+      <td style="text-align: left">???</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">???</td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">0§</code></td>
+      <td style="text-align: left">???</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">???</td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">0§</code></td>
+      <td style="text-align: left">???</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">???</td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">0§</code></td>
+      <td style="text-align: left">???</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">???</td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">0§</code></td>
+      <td style="text-align: left">???</td>
+    </tr>
+  </tbody>
+</table>
+
+<h1>Fourth batch of fighters</h1>
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Fighter</th>
+      <th style="text-align: left">Last Bid</th>
+      <th style="text-align: left">Bid Owner</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">???</td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">0§</code></td>
+      <td style="text-align: left">???</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">???</td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">0§</code></td>
+      <td style="text-align: left">???</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">???</td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">0§</code></td>
+      <td style="text-align: left">???</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">???</td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">0§</code></td>
+      <td style="text-align: left">???</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">???</td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">0§</code></td>
+      <td style="text-align: left">???</td>
+    </tr>
+  </tbody>
+</table>
+
+<h1>Fifth batch of fighters</h1>
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Fighter</th>
+      <th style="text-align: left">Last Bid</th>
+      <th style="text-align: left">Bid Owner</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">???</td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">0§</code></td>
+      <td style="text-align: left">???</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">???</td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">0§</code></td>
+      <td style="text-align: left">???</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">???</td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">0§</code></td>
+      <td style="text-align: left">???</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">???</td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">0§</code></td>
+      <td style="text-align: left">???</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">???</td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">0§</code></td>
+      <td style="text-align: left">???</td>
+    </tr>
+  </tbody>
+</table>
+
+<h1>Sixth batch of fighters</h1>
 <table>
   <thead>
     <tr>
