@@ -1,4 +1,3 @@
-<h1>First batch of fighters<h1>
 <table>
   <thead>
     <tr>
