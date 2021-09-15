@@ -14,7 +14,7 @@
       <td style="text-align: left">Albi</td>
     </tr>
     <tr>
-      <td style="text-align: left">0-Shooter</td>
+      <td style="text-align: left">0-Shotter</td>
       <td style="text-align: left"><code class="language-plaintext highlighter-rouge">250§</code></td>
       <td style="text-align: left">Master</td>
     </tr>
