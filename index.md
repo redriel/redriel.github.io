@@ -47,27 +47,27 @@
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: left">???</td>
+      <td style="text-align: left">Saluigi</td>
       <td style="text-align: left"><code class="language-plaintext highlighter-rouge">0§</code></td>
       <td style="text-align: left">???</td>
     </tr>
     <tr>
-      <td style="text-align: left">???</td>
+      <td style="text-align: left">Shiba Inuit</td>
       <td style="text-align: left"><code class="language-plaintext highlighter-rouge">0§</code></td>
       <td style="text-align: left">???</td>
     </tr>
     <tr>
-      <td style="text-align: left">???</td>
+      <td style="text-align: left">Sgrunt</td>
       <td style="text-align: left"><code class="language-plaintext highlighter-rouge">0§</code></td>
       <td style="text-align: left">???</td>
     </tr>
     <tr>
-      <td style="text-align: left">???</td>
+      <td style="text-align: left">Arthur Fucksalot</td>
       <td style="text-align: left"><code class="language-plaintext highlighter-rouge">0§</code></td>
       <td style="text-align: left">???</td>
     </tr>
     <tr>
-      <td style="text-align: left">???</td>
+      <td style="text-align: left">Giga Devastator</td>
       <td style="text-align: left"><code class="language-plaintext highlighter-rouge">0§</code></td>
       <td style="text-align: left">???</td>
     </tr>
