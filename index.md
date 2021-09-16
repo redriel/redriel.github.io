@@ -10,7 +10,7 @@
   <tbody>
     <tr>
       <td style="text-align: left">Bruce Yeet</td>
-      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">30§</code></td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">120§</code></td>
       <td style="text-align: left">Albi</td>
     </tr>
     <tr>
@@ -25,7 +25,7 @@
     </tr>
     <tr>
       <td style="text-align: left">Eustaccius Miracolarior</td>
-      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">260§</code></td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">330§</code></td>
       <td style="text-align: left">Master</td>
     </tr>
     <tr>
