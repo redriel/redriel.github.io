@@ -11,7 +11,7 @@
     <tr>
       <td style="text-align: left">Bruce Yeet</td>
       <td style="text-align: left"><code class="language-plaintext highlighter-rouge">120§</code></td>
-      <td style="text-align: left">Albi</td>
+      <td style="text-align: left">Ostax</td>
     </tr>
     <tr>
       <td style="text-align: left">0-Shotter</td>
@@ -26,7 +26,7 @@
     <tr>
       <td style="text-align: left">Eustaccius Miracolarior</td>
       <td style="text-align: left"><code class="language-plaintext highlighter-rouge">330§</code></td>
-      <td style="text-align: left">Master</td>
+      <td style="text-align: left">Ostax</td>
     </tr>
     <tr>
       <td style="text-align: left">Lamezia Terme</td>
