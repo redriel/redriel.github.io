@@ -10,8 +10,8 @@
   <tbody>
     <tr>
       <td style="text-align: left">Bruce Yeet</td>
-      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">120§</code></td>
-      <td style="text-align: left">Ostax</td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">130§</code></td>
+      <td style="text-align: left">Chuck</td>
     </tr>
     <tr>
       <td style="text-align: left">0-Shotter</td>
