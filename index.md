@@ -58,8 +58,8 @@
     </tr>
     <tr>
       <td style="text-align: left">Sgrunt</td>
-      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">0§</code></td>
-      <td style="text-align: left">???</td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">10§</code></td>
+      <td style="text-align: left">Albi</td>
     </tr>
     <tr>
       <td style="text-align: left">Arthur Fucksalot</td>
