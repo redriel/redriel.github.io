@@ -48,8 +48,8 @@
   <tbody>
     <tr>
       <td style="text-align: left">Saluigi</td>
-      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">200§</code></td>
-      <td style="text-align: left">Albi</td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">410§</code></td>
+      <td style="text-align: left">Ostax</td>
     </tr>
     <tr>
       <td style="text-align: left">Shiba Inuit</td>
@@ -63,8 +63,8 @@
     </tr>
     <tr>
       <td style="text-align: left">Arthur Fucksalot</td>
-      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">50§</code></td>
-      <td style="text-align: left">Albi</td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">100§</code></td>
+      <td style="text-align: left">Simo</td>
     </tr>
     <tr>
       <td style="text-align: left">Giga Devastator</td>
