@@ -1,4 +1,4 @@
-<h1>First batch of fighters</h1>
+<h1>First batch of fighters (CLOSED)</h1>
 <table>
   <thead>
     <tr>
