@@ -48,28 +48,28 @@
   <tbody>
     <tr>
       <td style="text-align: left">Saluigi</td>
-      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">0§</code></td>
-      <td style="text-align: left">???</td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">200§</code></td>
+      <td style="text-align: left">Albi</td>
     </tr>
     <tr>
       <td style="text-align: left">Shiba Inuit</td>
-      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">0§</code></td>
-      <td style="text-align: left">???</td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">10§</code></td>
+      <td style="text-align: left">Albi</td>
     </tr>
     <tr>
       <td style="text-align: left">Sgrunt</td>
-      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">0§</code></td>
-      <td style="text-align: left">???</td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">10§</code></td>
+      <td style="text-align: left">Albi</td>
     </tr>
     <tr>
       <td style="text-align: left">Arthur Fucksalot</td>
-      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">0§</code></td>
-      <td style="text-align: left">???</td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">40§</code></td>
+      <td style="text-align: left">Simo</td>
     </tr>
     <tr>
       <td style="text-align: left">Giga Devastator</td>
-      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">0§</code></td>
-      <td style="text-align: left">???</td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">1000§</code></td>
+      <td style="text-align: left">Gabri</td>
     </tr>
   </tbody>
 </table>
