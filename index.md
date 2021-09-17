@@ -85,27 +85,27 @@
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: left">???</td>
+      <td style="text-align: left">Leopard Man</td>
       <td style="text-align: left"><code class="language-plaintext highlighter-rouge">0§</code></td>
       <td style="text-align: left">???</td>
     </tr>
     <tr>
-      <td style="text-align: left">???</td>
+      <td style="text-align: left">Jiak Chiller</td>
       <td style="text-align: left"><code class="language-plaintext highlighter-rouge">0§</code></td>
       <td style="text-align: left">???</td>
     </tr>
     <tr>
-      <td style="text-align: left">???</td>
-      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">0§</code></td>
-      <td style="text-align: left">???</td>
+      <td style="text-align: left">Geppo</td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">50§</code></td>
+      <td style="text-align: left">Simo</td>
     </tr>
     <tr>
-      <td style="text-align: left">???</td>
-      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">0§</code></td>
-      <td style="text-align: left">???</td>
+      <td style="text-align: left">Bob hole-in-one</td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">60§</code></td>
+      <td style="text-align: left">Albi</td>
     </tr>
     <tr>
-      <td style="text-align: left">???</td>
+      <td style="text-align: left">Mr. Y</td>
       <td style="text-align: left"><code class="language-plaintext highlighter-rouge">0§</code></td>
       <td style="text-align: left">???</td>
     </tr>
