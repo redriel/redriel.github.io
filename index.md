@@ -36,7 +36,7 @@
   </tbody>
 </table>
 
-<h1>Second batch of fighters</h1>
+<h1>Second batch of fighters (CLOSED)</h1>
 <table>
   <thead>
     <tr>
