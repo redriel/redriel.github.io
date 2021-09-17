@@ -58,13 +58,13 @@
     </tr>
     <tr>
       <td style="text-align: left">Sgrunt</td>
-      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">10§</code></td>
-      <td style="text-align: left">Albi</td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">60§</code></td>
+      <td style="text-align: left">Chuck</td>
     </tr>
     <tr>
       <td style="text-align: left">Arthur Fucksalot</td>
-      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">100§</code></td>
-      <td style="text-align: left">Simo</td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">110§</code></td>
+      <td style="text-align: left">Albi</td>
     </tr>
     <tr>
       <td style="text-align: left">Giga Devastator</td>
