@@ -101,13 +101,13 @@
     </tr>
     <tr>
       <td style="text-align: left">Bob hole-in-one</td>
-      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">60§</code></td>
-      <td style="text-align: left">Albi</td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">100§</code></td>
+      <td style="text-align: left">Gio</td>
     </tr>
     <tr>
       <td style="text-align: left">Mr. Y</td>
-      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">0§</code></td>
-      <td style="text-align: left">???</td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">50§</code></td>
+      <td style="text-align: left">Master</td>
     </tr>
   </tbody>
 </table>
