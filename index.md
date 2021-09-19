@@ -74,7 +74,7 @@
   </tbody>
 </table>
 
-<h1>Third batch of fighters</h1>
+<h1>Third batch of fighters (CLOSED)</h1>
 <table>
   <thead>
     <tr>
@@ -101,8 +101,8 @@
     </tr>
     <tr>
       <td style="text-align: left">Bob hole-in-one</td>
-      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">100§</code></td>
-      <td style="text-align: left">Gio</td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">120§</code></td>
+      <td style="text-align: left">Campa</td>
     </tr>
     <tr>
       <td style="text-align: left">Mr. Y</td>
@@ -112,7 +112,7 @@
   </tbody>
 </table>
 
-<h1>Fourth batch of fighters</h1>
+<h1>Fourth batch of fighters (CLOSED)</h1>
 <table>
   <thead>
     <tr>
@@ -123,27 +123,27 @@
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: left">???</td>
+      <td style="text-align: left">El sburante</td>
       <td style="text-align: left"><code class="language-plaintext highlighter-rouge">0§</code></td>
       <td style="text-align: left">???</td>
     </tr>
     <tr>
-      <td style="text-align: left">???</td>
-      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">0§</code></td>
-      <td style="text-align: left">???</td>
+      <td style="text-align: left">Joao Lucia Cremona do Rio Verde</td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">50§</code></td>
+      <td style="text-align: left">Simo</td>
     </tr>
     <tr>
-      <td style="text-align: left">???</td>
-      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">0§</code></td>
-      <td style="text-align: left">???</td>
+      <td style="text-align: left">Geronimo Phazz</td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">10§</code></td>
+      <td style="text-align: left">Chuck</td>
     </tr>
     <tr>
-      <td style="text-align: left">???</td>
-      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">0§</code></td>
-      <td style="text-align: left">???</td>
+      <td style="text-align: left">Siphylio</td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">200§</code></td>
+      <td style="text-align: left">Simo</td>
     </tr>
     <tr>
-      <td style="text-align: left">???</td>
+      <td style="text-align: left">Surely not Giuseppe Conte</td>
       <td style="text-align: left"><code class="language-plaintext highlighter-rouge">0§</code></td>
       <td style="text-align: left">???</td>
     </tr>
