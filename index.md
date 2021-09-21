@@ -145,12 +145,12 @@
     <tr>
       <td style="text-align: left">Leopard Man</td>
       <td style="text-align: left"><code class="language-plaintext highlighter-rouge">0§</code></td>
-      <td style="text-align: left">???</td>
+      <td style="text-align: left">UNSOLD</td>
     </tr>
     <tr>
       <td style="text-align: left">Jiak Chiller</td>
       <td style="text-align: left"><code class="language-plaintext highlighter-rouge">0§</code></td>
-      <td style="text-align: left">???</td>
+      <td style="text-align: left">UNSOLD</td>
     </tr>
     <tr>
       <td style="text-align: left">Geppo</td>
@@ -183,7 +183,7 @@
     <tr>
       <td style="text-align: left">El sburante</td>
       <td style="text-align: left"><code class="language-plaintext highlighter-rouge">0§</code></td>
-      <td style="text-align: left">unsold</td>
+      <td style="text-align: left">UNSOLD</td>
     </tr>
     <tr>
       <td style="text-align: left">Joao Lucia Cremona do Rio Verde</td>
@@ -203,7 +203,7 @@
     <tr>
       <td style="text-align: left">Surely not Giuseppe Conte</td>
       <td style="text-align: left"><code class="language-plaintext highlighter-rouge">0§</code></td>
-      <td style="text-align: left">unsold</td>
+      <td style="text-align: left">UNSOLD</td>
     </tr>
   </tbody>
 </table>
@@ -236,7 +236,7 @@
     <tr>
       <td style="text-align: left">Fei Short</td>
       <td style="text-align: left"><code class="language-plaintext highlighter-rouge">0§</code></td>
-      <td style="text-align: left">unsold</td>
+      <td style="text-align: left">UNSOLD</td>
     </tr>
     <tr>
       <td style="text-align: left">Otto von Smegburg</td>
@@ -269,12 +269,12 @@
     <tr>
       <td style="text-align: left">Santiago de Arca Madona</td>
       <td style="text-align: left"><code class="language-plaintext highlighter-rouge">0§</code></td>
-      <td style="text-align: left">unsold</td>
+      <td style="text-align: left">UNSOLD</td>
     </tr>
     <tr>
       <td style="text-align: left">Edward McFuckers</td>
       <td style="text-align: left"><code class="language-plaintext highlighter-rouge">0§</code></td>
-      <td style="text-align: left">unsold</td>
+      <td style="text-align: left">UNSOLD</td>
     </tr>
     <tr>
       <td style="text-align: left">Paolo Pazzinculo</td>
