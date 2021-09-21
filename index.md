@@ -125,7 +125,7 @@
     <tr>
       <td style="text-align: left">El sburante</td>
       <td style="text-align: left"><code class="language-plaintext highlighter-rouge">0§</code></td>
-      <td style="text-align: left">???</td>
+      <td style="text-align: left">unsold</td>
     </tr>
     <tr>
       <td style="text-align: left">Joao Lucia Cremona do Rio Verde</td>
@@ -145,12 +145,12 @@
     <tr>
       <td style="text-align: left">Surely not Giuseppe Conte</td>
       <td style="text-align: left"><code class="language-plaintext highlighter-rouge">0§</code></td>
-      <td style="text-align: left">???</td>
+      <td style="text-align: left">unsold</td>
     </tr>
   </tbody>
 </table>
 
-<h1>Fifth batch of fighters</h1>
+<h1>Fifth batch of fighters (CLOSED)</h1>
 <table>
   <thead>
     <tr>
@@ -161,34 +161,34 @@
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: left">???</td>
-      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">0§</code></td>
-      <td style="text-align: left">???</td>
+      <td style="text-align: left">Armand Bonjour</td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">350§</code></td>
+      <td style="text-align: left">Gio</td>
     </tr>
     <tr>
-      <td style="text-align: left">???</td>
-      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">0§</code></td>
-      <td style="text-align: left">???</td>
+      <td style="text-align: left">Cyborg LM-69420</td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">250§</code></td>
+      <td style="text-align: left">Gio</td>
     </tr>
     <tr>
-      <td style="text-align: left">???</td>
-      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">0§</code></td>
-      <td style="text-align: left">???</td>
+      <td style="text-align: left">Dimitri Stuprinski</td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">100§</code></td>
+      <td style="text-align: left">Gio</td>
     </tr>
     <tr>
-      <td style="text-align: left">???</td>
+      <td style="text-align: left">Fei Short</td>
       <td style="text-align: left"><code class="language-plaintext highlighter-rouge">0§</code></td>
-      <td style="text-align: left">???</td>
+      <td style="text-align: left">unsold</td>
     </tr>
     <tr>
-      <td style="text-align: left">???</td>
-      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">0§</code></td>
-      <td style="text-align: left">???</td>
+      <td style="text-align: left">Otto von Smegburg</td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">10§</code></td>
+      <td style="text-align: left">Ric</td>
     </tr>
   </tbody>
 </table>
 
-<h1>Sixth batch of fighters</h1>
+<h1>Sixth batch of fighters (CLOSED)</h1>
 <table>
   <thead>
     <tr>
@@ -199,29 +199,29 @@
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: left">???</td>
-      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">0§</code></td>
-      <td style="text-align: left">???</td>
+      <td style="text-align: left">Mbolo Ngulu</td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">40§</code></td>
+      <td style="text-align: left">Ric</td>
     </tr>
     <tr>
-      <td style="text-align: left">???</td>
+      <td style="text-align: left">Kenji Sudoku</td>
       <td style="text-align: left"><code class="language-plaintext highlighter-rouge">0§</code></td>
-      <td style="text-align: left">???</td>
+      <td style="text-align: left">unsold</td>
     </tr>
     <tr>
-      <td style="text-align: left">???</td>
+      <td style="text-align: left">Santiago de Arca Madona</td>
       <td style="text-align: left"><code class="language-plaintext highlighter-rouge">0§</code></td>
-      <td style="text-align: left">???</td>
+      <td style="text-align: left">unsold</td>
     </tr>
     <tr>
-      <td style="text-align: left">???</td>
+      <td style="text-align: left">Edward McFuckers</td>
       <td style="text-align: left"><code class="language-plaintext highlighter-rouge">0§</code></td>
-      <td style="text-align: left">???</td>
+      <td style="text-align: left">unsold</td>
     </tr>
     <tr>
-      <td style="text-align: left">???</td>
-      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">0§</code></td>
-      <td style="text-align: left">???</td>
+      <td style="text-align: left">Paolo Pazzinculo</td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">260§</code></td>
+      <td style="text-align: left">Ric</td>
     </tr>
   </tbody>
 </table>
