@@ -1,3 +1,14 @@
+<h1>Unlicensed Fighters</h1>
+<ul>
+  <li>Leopard Man</li>
+  <li>Jiak Chiller</li>
+  <li>El Sburante</li>
+  <li>Surely not Giuseppe Conte</li>
+  <li>Fei Short</li>
+  <li>Santiago de Arca Madona</li>
+  <li>Edward McFuckers</li>
+<ul>
+  
 <h1>Teams & Remaining Funds</h1>
 <table>
   <thead>
@@ -181,7 +192,7 @@
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: left">El sburante</td>
+      <td style="text-align: left">El Sburante</td>
       <td style="text-align: left"><code class="language-plaintext highlighter-rouge">0§</code></td>
       <td style="text-align: left">UNSOLD</td>
     </tr>
