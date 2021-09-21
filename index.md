@@ -1,3 +1,61 @@
+<h1>Teams & Remaining Funds</h1>
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Owner</th>
+      <th style="text-align: left">Fighters</th>
+      <th style="text-align: left">Funds</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Albi</td>
+      <td style="text-align: left">Shiba Inuit, Arthur Fucksalot, Kenji Sudoku</td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">580§</code></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Campa</td>
+      <td style="text-align: left">Bob hole-in-one</td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">880§</code></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Chuck</td>
+      <td style="text-align: left">Bruce Yeet, Sgrunt, Geronimo Phazz</td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">800§</code></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Gabri</td>
+      <td style="text-align: left">Giga Devastator</td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">0§</code></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Gio</td>
+      <td style="text-align: left">Armand Bonjour, Cyborg LM-69420, Dimitri Stuprinski</td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">300§</code></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Master</td>
+      <td style="text-align: left">0-Shotter, Lamezia Terme, Mr. Y</td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">500§</code></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Ostax</td>
+      <td style="text-align: left">Burger Emperor, Eustaccius Miracolarior, Saluigi</td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">230§</code></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Ric</td>
+      <td style="text-align: left">Otto von Smegburg, Mbolo Ngulu, Paolo Pazzinculo</td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">790§</code></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Simo</td>
+      <td style="text-align: left">Geppo, Joao Lucia Cremona do Rio Verde, Siphylio</td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">700§</code></td>
+    </tr>
+  </tbody>
+</table>
+
 <h1>First batch of fighters (CLOSED)</h1>
 <table>
   <thead>
@@ -205,8 +263,8 @@
     </tr>
     <tr>
       <td style="text-align: left">Kenji Sudoku</td>
-      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">0§</code></td>
-      <td style="text-align: left">unsold</td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">300§</code></td>
+      <td style="text-align: left">Albi</td>
     </tr>
     <tr>
       <td style="text-align: left">Santiago de Arca Madona</td>
