@@ -7,7 +7,7 @@
   <li>Fei Short</li>
   <li>Santiago de Arca Madona</li>
   <li>Edward McFuckers</li>
-<ul>
+</ul>
   
 <h1>Teams & Remaining Funds</h1>
 <table>
