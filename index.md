@@ -3,7 +3,11 @@
   <thead>
     <tr>
       <th style="text-align: left">Owner</th>
-      <th style="text-align: left">Fighters</th>
+      <th style="text-align: left">Fighter 1</th>
+      <th style="text-align: left">Fighter 2</th>
+      <th style="text-align: left">Fighter 3</th>
+      <th style="text-align: left">Fighter 4</th>
+      <th style="text-align: left">Fighter 5</th>
     </tr>
   </thead>
   <tbody>
