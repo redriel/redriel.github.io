@@ -13,8 +13,11 @@
   <tbody>
     <tr>
       <td style="text-align: left">Albi</td>
-      <td style="text-align: left">Shiba Inuit, Arthur Fucksalot, Kenji Sudoku</td>
-      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">580§</code></td>
+      <td style="text-align: left">Shiba Inuit</td>
+      <td style="text-align: left">Arthur Fucksalot</td>
+      <td style="text-align: left">Kenji Sudoku</td>
+      <td style="text-align: left"></td>
+      <td style="text-align: left"></td>
     </tr>
     <tr>
       <td style="text-align: left">Campa</td>
