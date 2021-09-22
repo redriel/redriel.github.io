@@ -1,21 +1,9 @@
-<h1>Unlicensed Fighters</h1>
-<ul>
-  <li>Leopard Man</li>
-  <li>Jiak Chiller</li>
-  <li>El Sburante</li>
-  <li>Surely not Giuseppe Conte</li>
-  <li>Fei Short</li>
-  <li>Santiago de Arca Madona</li>
-  <li>Edward McFuckers</li>
-</ul>
-  
-<h1>Teams & Remaining Funds</h1>
+<h1>Teams & Owners</h1>
 <table>
   <thead>
     <tr>
       <th style="text-align: left">Owner</th>
       <th style="text-align: left">Fighters</th>
-      <th style="text-align: left">Funds</th>
     </tr>
   </thead>
   <tbody>
