@@ -22,42 +22,74 @@
     <tr>
       <td style="text-align: left">Campa</td>
       <td style="text-align: left">Bob hole-in-one</td>
-      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">880§</code></td>
+      <td style="text-align: left">Leopard Man</td>
+      <td style="text-align: left">Santiago de Arca Madona</td>
+      <td style="text-align: left"></td>
+      <td style="text-align: left"></td>
     </tr>
     <tr>
       <td style="text-align: left">Chuck</td>
-      <td style="text-align: left">Bruce Yeet, Sgrunt, Geronimo Phazz</td>
-      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">800§</code></td>
+      <td style="text-align: left">Bruce Yeet </td>
+      <td style="text-align: left">Sgrunt</td>
+      <td style="text-align: left">Geronimo Phazz</td>
+      <td style="text-align: left">Edward McFuckers</td>
+      <td style="text-align: left">El Sburante</td>
     </tr>
     <tr>
       <td style="text-align: left">Gabri</td>
       <td style="text-align: left">Giga Devastator</td>
-      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">0§</code></td>
+      <td style="text-align: left"></td>
+      <td style="text-align: left"></td>
+      <td style="text-align: left"></td>
+      <td style="text-align: left"></td>
     </tr>
     <tr>
       <td style="text-align: left">Gio</td>
-      <td style="text-align: left">Armand Bonjour, Cyborg LM-69420, Dimitri Stuprinski</td>
-      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">300§</code></td>
+      <td style="text-align: left">Armand Bonjour</td>
+      <td style="text-align: left">Cyborg LM-69420</td>
+      <td style="text-align: left">Dimitri Stuprinski</td>
+      <td style="text-align: left"></td>
+      <td style="text-align: left"></td>
     </tr>
     <tr>
       <td style="text-align: left">Master</td>
-      <td style="text-align: left">0-Shotter, Lamezia Terme, Mr. Y</td>
-      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">500§</code></td>
+      <td style="text-align: left">0-Shotter</td>
+      <td style="text-align: left">Lamezia Terme</td>
+      <td style="text-align: left">Mr. Y</td>
+      <td style="text-align: left"></td>
+      <td style="text-align: left"></td>
     </tr>
     <tr>
       <td style="text-align: left">Ostax</td>
-      <td style="text-align: left">Burger Emperor, Eustaccius Miracolarior, Saluigi</td>
-      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">230§</code></td>
+      <td style="text-align: left">Burger Emperor</td>
+      <td style="text-align: left">Eustaccius Miracolarior</td>
+      <td style="text-align: left">Saluigi</td>
+      <td style="text-align: left"></td>
+      <td style="text-align: left"></td>
     </tr>
     <tr>
       <td style="text-align: left">Ric</td>
-      <td style="text-align: left">Otto von Smegburg, Mbolo Ngulu, Paolo Pazzinculo</td>
-      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">790§</code></td>
+      <td style="text-align: left">Otto von Smegburg</td>
+      <td style="text-align: left">Mbolo Ngulu</td>
+      <td style="text-align: left">Paolo Pazzinculo</td>
+      <td style="text-align: left"></td>
+      <td style="text-align: left"></td>
     </tr>
     <tr>
       <td style="text-align: left">Simo</td>
-      <td style="text-align: left">Geppo, Joao Lucia Cremona do Rio Verde, Siphylio</td>
-      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">700§</code></td>
+      <td style="text-align: left">Geppo</td>
+      <td style="text-align: left">Joao Lucia Cremona do Rio Verde</td>
+      <td style="text-align: left">Siphylio</td>
+      <td style="text-align: left"></td>
+      <td style="text-align: left"></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Fantaschiaffi CEO</td>
+      <td style="text-align: left">Jiak Chiller</td>
+      <td style="text-align: left"></td>
+      <td style="text-align: left"></td>
+      <td style="text-align: left"></td>
+      <td style="text-align: left"></td>
     </tr>
   </tbody>
 </table>
