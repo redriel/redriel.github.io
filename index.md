@@ -80,7 +80,7 @@
       <td style="text-align: left"><span style="color:green">Geppo</span></td>
       <td style="text-align: left"><span style="color:green">Joao Lucia Cremona do Rio Verde</span></td>
       <td style="text-align: left"><span style="color:red">Siphylio</span></td>
-      <td style="text-align: left"><span style="color:red">Surely not Giuseppe Conte</span></td>
+      <td style="text-align: left">Surely not Giuseppe Conte</td>
       <td style="text-align: left"></td>
     </tr>
     <tr>
