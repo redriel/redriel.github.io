@@ -13,7 +13,7 @@
   <tbody>
     <tr>
       <td style="text-align: left">Albi</td>
-      <td style="text-align: left">Shiba Inuit</td>
+      <td style="text-align: left"><style="color=red">Shiba Inuit</style></td>
       <td style="text-align: left">Arthur Fucksalot</td>
       <td style="text-align: left">Kenji Sudoku</td>
       <td style="text-align: left"></td>
