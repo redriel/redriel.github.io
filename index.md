@@ -33,7 +33,7 @@
       <td style="text-align: left"><span style="color:green">Sgrunt</span></td>
       <td style="text-align: left">Geronimo Phazz</td>
       <td style="text-align: left"><span style="color:red">Edward McFuckers</span></td>
-      <td style="text-align: left">El Sburante</td>
+      <td style="text-align: left"><span style="color:green">El Sburante</span></td>
     </tr>
     <tr>
       <td style="text-align: left">Gabri</td>
@@ -54,7 +54,7 @@
     <tr>
       <td style="text-align: left">Master</td>
       <td style="text-align: left">0-Shotter</td>
-      <td style="text-align: left">Lamezia Terme</td>
+      <td style="text-align: left"><span style="color:red">Lamezia Terme</span></td>
       <td style="text-align: left">Mr. Y</td>
       <td style="text-align: left"></td>
       <td style="text-align: left"></td>
