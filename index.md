@@ -46,7 +46,7 @@
     <tr>
       <td style="text-align: left">Gio</td>
       <td style="text-align: left"><span style="color:red">Armand Bonjour</span></td>
-      <td style="text-align: left">Cyborg LM-69420</td>
+      <td style="text-align: left"><span style="color:red">Cyborg LM-69420</span></td>
       <td style="text-align: left"><span style="color:red">Dimitri Stuprinski</span></td>
       <td style="text-align: left"></td>
       <td style="text-align: left"></td>
@@ -80,7 +80,7 @@
       <td style="text-align: left"><span style="color:green">Geppo</span></td>
       <td style="text-align: left"><span style="color:green">Joao Lucia Cremona do Rio Verde</span></td>
       <td style="text-align: left"><span style="color:red">Siphylio</span></td>
-      <td style="text-align: left">Surely not Giuseppe Conte</td>
+      <td style="text-align: left"><span style="color:green">Surely not Giuseppe Conte</span></td>
       <td style="text-align: left"></td>
     </tr>
     <tr>
