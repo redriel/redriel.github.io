@@ -31,7 +31,7 @@
       <td style="text-align: left">Chuck</td>
       <td style="text-align: left"><span style="color:green">Bruce Yeet</span></td>
       <td style="text-align: left"><span style="color:green">Sgrunt</span></td>
-      <td style="text-align: left">Geronimo Phazz</td>
+      <td style="text-align: left"><span style="color:red">Geronimo Phazz</span></td>
       <td style="text-align: left"><span style="color:red">Edward McFuckers</span></td>
       <td style="text-align: left"><span style="color:green">El Sburante</span></td>
     </tr>
@@ -53,25 +53,25 @@
     </tr>
     <tr>
       <td style="text-align: left">Master</td>
-      <td style="text-align: left">0-Shotter</td>
+      <td style="text-align: left"><span style="color:green">0-Shotter</span>/td>
       <td style="text-align: left"><span style="color:red">Lamezia Terme</span></td>
-      <td style="text-align: left">Mr. Y</td>
+      <td style="text-align: left"><span style="color:red">Mr. Y</span></td>
       <td style="text-align: left"></td>
       <td style="text-align: left"></td>
     </tr>
     <tr>
       <td style="text-align: left">Ostax</td>
-      <td style="text-align: left">Burger Emperor</td>
-      <td style="text-align: left">Eustaccius Miracolarior</td>
+      <td style="text-align: left"><span style="color:green">Burger Emperor</span></td>
+      <td style="text-align: left"><span style="color:green">Eustaccius Miracolarior</span></td>
       <td style="text-align: left"><span style="color:green">Saluigi</span></td>
       <td style="text-align: left"><span style="color:green">Fei Short</span></td>
       <td style="text-align: left"></td>
     </tr>
     <tr>
       <td style="text-align: left">Ric</td>
-      <td style="text-align: left">Otto von Smegburg</td>
-      <td style="text-align: left">Mbolo Ngulu</td>
-      <td style="text-align: left">Paolo Pazzinculo</td>
+      <td style="text-align: left"><span style="color:red">Otto von Smegburg</span></td>
+      <td style="text-align: left"><span style="color:red">Mbolo Ngulu</span></td>
+      <td style="text-align: left"><span style="color:green">Paolo Pazzinculo</span></td>
       <td style="text-align: left"></td>
       <td style="text-align: left"></td>
     </tr>
