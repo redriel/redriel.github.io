@@ -53,7 +53,7 @@
     </tr>
     <tr>
       <td style="text-align: left">Master</td>
-      <td style="text-align: left"><span style="color:green">0-Shotter</span>/td>
+      <td style="text-align: left"><span style="color:green">0-Shotter</span></td>
       <td style="text-align: left"><span style="color:red">Lamezia Terme</span></td>
       <td style="text-align: left"><span style="color:red">Mr. Y</span></td>
       <td style="text-align: left"></td>
