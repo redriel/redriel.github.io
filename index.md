@@ -70,7 +70,7 @@
       <td style="text-align: left">Simo</td>
       <td style="text-align: left"><span style="color:green">Geppo</span></td>
       <td style="text-align: left"><span style="color:green">Joao Lucia Cremona do Rio Verde</span></td>
-      <td style="text-align: left"><span style="color:red">Siphylio</span></td>
+      <td style="text-align: left"><span style="color:red">Siphylio*</span></td>
       <td style="text-align: left"><span style="color:green">Surely not Giuseppe Conte</span></td>
     </tr>
     <tr>
