@@ -21,7 +21,7 @@
       <td style="text-align: left">Campa</td>
       <td style="text-align: left"><span style="color:red"><del>Bob hole-in-one</del></span></td>
       <td style="text-align: left"><span style="color:red">Leopard Man</span></td>
-      <td style="text-align: left"><span style="color:red">Santiago de Arca Madona</span></td>
+      <td style="text-align: left"><span style="color:red">Santiago de Arca Madona*</span></td>
       <td style="text-align: left"></td>
     </tr>
     <tr>
