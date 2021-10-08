@@ -12,8 +12,8 @@
   <tbody>
     <tr>
       <td style="text-align: left">Albi</td>
-      <td style="text-align: left"><span style="color:red">Shiba Inuit</span></td>
-      <td style="text-align: left"><span style="color:green">Arthur Fucksalot</span></td>
+      <td style="text-align: left"><span style="color:red"><del>Shiba Inuit</del></span></td>
+      <td style="text-align: left"><span style="color:red">Arthur Fucksalot</span></td>
       <td style="text-align: left"><span style="color:green">Kenji Sudoku</span></td>
       <td style="text-align: left"></td>
     </tr>
@@ -21,7 +21,7 @@
       <td style="text-align: left">Campa</td>
       <td style="text-align: left"><span style="color:red"><del>Bob hole-in-one</del></span></td>
       <td style="text-align: left"><span style="color:red">Leopard Man</span></td>
-      <td style="text-align: left"><span style="color:red">Santiago de Arca Madona*</span></td>
+      <td style="text-align: left"><span style="color:red">Santiago de Arca Madona</span></td>
       <td style="text-align: left"></td>
     </tr>
     <tr>
@@ -29,7 +29,7 @@
       <td style="text-align: left"><span style="color:green">Bruce Yeet</span></td>
       <td style="text-align: left"><span style="color:green">Sgrunt</span></td>
       <td style="text-align: left"><span style="color:red">Geronimo Phazz</span></td>
-      <td style="text-align: left"><span style="color:green">El Sburante</span></td>
+      <td style="text-align: left"><span style="color:red">El Sburante</span></td>
     </tr>
     <tr>
       <td style="text-align: left">Gabri</td>
@@ -41,7 +41,7 @@
     <tr>
       <td style="text-align: left">Gio</td>
       <td style="text-align: left"><span style="color:red">Armand Bonjour</span></td>
-      <td style="text-align: left"><span style="color:red">Cyborg LM-69420</span></td>
+      <td style="text-align: left"><span style="color:red"><del>Cyborg LM-69420</del></span></td>
       <td style="text-align: left"><span style="color:red">Dimitri Stuprinski</span></td>
       <td style="text-align: left"></td>
     </tr>
@@ -57,25 +57,25 @@
       <td style="text-align: left"><span style="color:green">Burger Emperor</span></td>
       <td style="text-align: left"><span style="color:green">Eustaccius Miracolarior</span></td>
       <td style="text-align: left"><span style="color:green">Saluigi</span></td>
-      <td style="text-align: left"><span style="color:green">Fei Short</span></td>
+      <td style="text-align: left"><span style="color:red">Fei Short</span></td>
     </tr>
     <tr>
       <td style="text-align: left">Ric</td>
-      <td style="text-align: left"><span style="color:red">Otto von Smegburg</span></td>
-      <td style="text-align: left"><span style="color:red">Mbolo Ngulu</span></td>
+      <td style="text-align: left"><span style="color:red"><del>Otto von Smegburg</del></span></td>
+      <td style="text-align: left"><span style="color:red"><del>Mbolo Ngulu</del></span></td>
       <td style="text-align: left"><span style="color:green">Paolo Pazzinculo</span></td>
       <td style="text-align: left"></td>
     </tr>
     <tr>
       <td style="text-align: left">Simo</td>
-      <td style="text-align: left"><span style="color:green">Geppo</span></td>
-      <td style="text-align: left"><span style="color:green">Joao Lucia Cremona do Rio Verde</span></td>
-      <td style="text-align: left"><span style="color:red">Siphylio*</span></td>
+      <td style="text-align: left"><span style="color:red">Geppo</span></td>
+      <td style="text-align: left"><span style="color:red">Joao Lucia Cremona do Rio Verde</span></td>
+      <td style="text-align: left"><span style="color:red">Siphylio</span></td>
       <td style="text-align: left"><span style="color:green">Surely not Giuseppe Conte</span></td>
     </tr>
     <tr>
       <td style="text-align: left">Fantaschiaffi CEO</td>
-      <td style="text-align: left"><span style="color:green">Jiak Chiller</span></td>
+      <td style="text-align: left"><span style="color:red">Jiak Chiller</span></td>
       <td style="text-align: left"></td>
       <td style="text-align: left"></td>
       <td style="text-align: left"></td>
