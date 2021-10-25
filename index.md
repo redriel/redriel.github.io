@@ -13,7 +13,7 @@
     <tr>
       <td style="text-align: left">Albi</td>
       <td style="text-align: left"><span style="color:red"><del>Shiba Inuit</del></span></td>
-      <td style="text-align: left"><span style="color:red"><del>Arthur Fucksalot<del></span></td>
+      <td style="text-align: left"><span style="color:red"><del>Arthur Fucksalot</del></span></td>
       <td style="text-align: left"><span style="color:green">Kenji Sudoku</span></td>
       <td style="text-align: left"></td>
     </tr>
@@ -48,7 +48,7 @@
     <tr>
       <td style="text-align: left">Master</td>
       <td style="text-align: left"><span style="color:green"><del>0-Shotter</del></span></td>
-      <td style="text-align: left"><span style="color:red"><del>Lamezia Terme<d/el></span></td>
+      <td style="text-align: left"><span style="color:red"><del>Lamezia Terme</del></span></td>
       <td style="text-align: left"><span style="color:red"><del>Mr. Y</del></span></td>
       <td style="text-align: left"></td>
     </tr>
@@ -57,7 +57,7 @@
       <td style="text-align: left"><span style="color:green">Burger Emperor</span></td>
       <td style="text-align: left"><span style="color:green">Eustaccius Miracolarior</span></td>
       <td style="text-align: left"><span style="color:green">Saluigi</span></td>
-      <td style="text-align: left"><span style="color:red"><del>Fei Short<del></span></td>
+      <td style="text-align: left"><span style="color:red"><del>Fei Short</del></span></td>
     </tr>
     <tr>
       <td style="text-align: left">Ric</td>
