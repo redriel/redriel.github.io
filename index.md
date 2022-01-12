@@ -45,7 +45,7 @@
 - [Esplorazione](#esplorazione)
   * [Capacità e Test](#capacit--e-test)
   * [Riposo](#riposo)
-<details>
+</details>
 
 **CYBERNAUT** è un gioco di ruolo da tavolo ambientato su un pianeta senza nome, chiamato semplicemente **Pianeta**, un mondo ostile coperto da deserti, canyon e lande ghiacciate. Cacciatori di tecnologia chiamati **Operatori** esplorano le rovine di antichi laboratori e insediamenti abbandonati alla ricerca di preziosi hardware da rivendere nella metropoli di Sho-Gai, l'unica città del Pianeta.
 
