@@ -3,14 +3,54 @@
 ## Manuale dell'Operatore
 
 <details>
+  
   <summary>Indice dei contenuti</summary>
   
- TEST(#le-basi-del-gioco)
- [Le basi del Gioco](#le-basi-del-gioco)
- - test(#le-basi-del-gioco)
-  -[Le basi del Gioco](#le-basi-del-gioco)
+  [a](#le-basi-del-gioco)
   
 </details>
+
+[a](#le-basi-del-gioco)
+- [Le basi del Gioco](#le-basi-del-gioco)
+  * [Parole chiave](#parole-chiave)
+  * [Creare un Operatore](#creare-un-operatore)
+- [Parametri](#parametri)
+  * [Parametri Base](#parametri-base)
+  * [Parametri Avanzati](#parametri-avanzati)
+- [Specie](#specie)
+  * [Umano](#umano)
+  * [Larva](#larva)
+  * [Kintu](#kintu)
+  * [Sync](#sync)
+- [Classi](#classi)
+  * [Agente](#agente)
+  * [Ghonin](#ghonin)
+  * [Teurgo](#teurgo)
+  * [SHELLER](#sheller)
+- [Equipaggiamento](#equipaggiamento)
+  * [Vettori](#vettori)
+    + [Proprietà dei Vettori](#propriet--dei-vettori)
+  * [Protoarmi](#protoarmi)
+    + [Proprietà Protoarmi](#propriet--protoarmi)
+  * [Gusci](#gusci)
+  * [Upgrade](#upgrade)
+  * [Chip](#chip)
+  * [Nucleoborsa](#nucleoborsa)
+  * [Strumenti](#strumenti)
+  * [Servizi](#servizi)
+- [Combattimento](#combattimento)
+  * [STACK](#stack)
+  * [L'Ordine dei LOOP](#l-ordine-dei-loop)
+  * [Azioni](#azioni)
+  * [Movimento e Distanze](#movimento-e-distanze)
+  * [Copertura](#copertura)
+  * [Attacco](#attacco)
+  * [Abilità e Overload](#abilit--e-overload)
+  * [Salute e Soglia](#salute-e-soglia)
+  * [Stress, Crisi e Psicosi](#stress,-crisi-e-psicosi)
+- [Esplorazione](#esplorazione)
+  * [Capacità e Test](#capacità-e-test)
+  * [Riposo](#riposo)
 
 **CYBERNAUT** è un gioco di ruolo da tavolo ambientato su un pianeta senza nome, chiamato semplicemente **Pianeta**, un mondo ostile coperto da deserti, canyon e lande ghiacciate. Cacciatori di tecnologia chiamati **Operatori** esplorano le rovine di antichi laboratori e insediamenti abbandonati alla ricerca di preziosi hardware da rivendere nella metropoli di Sho-Gai, l'unica città del Pianeta.
 
