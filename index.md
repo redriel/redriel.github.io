@@ -6,11 +6,6 @@
   
   <summary>Indice dei contenuti</summary>
   
-  [a](#le-basi-del-gioco)
-  
-</details>
-
-[a](#le-basi-del-gioco)
 - [Le basi del Gioco](#le-basi-del-gioco)
   * [Parole chiave](#parole-chiave)
   * [Creare un Operatore](#creare-un-operatore)
@@ -29,9 +24,9 @@
   * [SHELLER](#sheller)
 - [Equipaggiamento](#equipaggiamento)
   * [Vettori](#vettori)
-    + [Proprietà dei Vettori](#propriet--dei-vettori)
+    + [Proprietà dei Vettori](#proprietà-dei-vettori)
   * [Protoarmi](#protoarmi)
-    + [Proprietà Protoarmi](#propriet--protoarmi)
+    + [Proprietà Protoarmi](#proprietà-protoarmi)
   * [Gusci](#gusci)
   * [Upgrade](#upgrade)
   * [Chip](#chip)
@@ -40,17 +35,20 @@
   * [Servizi](#servizi)
 - [Combattimento](#combattimento)
   * [STACK](#stack)
-  * [L'Ordine dei LOOP](#l-ordine-dei-loop)
+  * [L'Ordine dei LOOP](#ordine-dei-loop)
   * [Azioni](#azioni)
   * [Movimento e Distanze](#movimento-e-distanze)
   * [Copertura](#copertura)
   * [Attacco](#attacco)
-  * [Abilità e Overload](#abilit--e-overload)
+  * [Abilità e Overload](#abilità-e-overload)
   * [Salute e Soglia](#salute-e-soglia)
-  * [Stress, Crisi e Psicosi](#stress,-crisi-e-psicosi)
+  * [Stress, Crisi e Psicosi](#stress-crisi-e-psicosi)
 - [Esplorazione](#esplorazione)
   * [Capacità e Test](#capacità-e-test)
   * [Riposo](#riposo)
+  
+</details>
+
 
 **CYBERNAUT** è un gioco di ruolo da tavolo ambientato su un pianeta senza nome, chiamato semplicemente **Pianeta**, un mondo ostile coperto da deserti, canyon e lande ghiacciate. Cacciatori di tecnologia chiamati **Operatori** esplorano le rovine di antichi laboratori e insediamenti abbandonati alla ricerca di preziosi hardware da rivendere nella metropoli di Sho-Gai, l'unica città del Pianeta.
 
@@ -610,7 +608,7 @@ In questa immagine ci sono due Operatori, uno in giallo ed uno in verde, e due n
 
 
 
-### L'Ordine dei LOOP
+### Ordine dei LOOP
 
 La prima cosa da fare ad inizio Combattimento, è quella di stabilire l'Ordine dei Loop, ossia in che sequenza Operatori e nemici compiono il proprio turno.
 
