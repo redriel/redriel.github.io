@@ -4,16 +4,16 @@
 
 <details>
   <summary>Indice dei contenuti</summary>
-<div id="toc_container">
-<p class="toc_title">Contents</p>
-<ul class="toc_list">
-<li><a href="#question_1">Heading 1</a>
-<li><a href="#question_2">Heading 2</a>
-<li><a href="#question_3">Heading 3</a>
-<li><a href="#question_4">Heading 4</a>
-<li><a href="#question_5">Heading 5</a>
-</ul>
-</div>
+  
+  <div id="toc_container">
+  <ul class="toc_list">
+  <li><a href="#question_1">Heading 1</a>
+  <li><a href="#question_2">Heading 2</a>
+  <li><a href="#question_3">Heading 3</a>
+  <li><a href="#question_4">Heading 4</a>
+  <li><a href="#question_5">Heading 5</a>
+  </ul>
+  </div>
 </details>
 
 **CYBERNAUT** è un gioco di ruolo da tavolo ambientato su un pianeta senza nome, chiamato semplicemente **Pianeta**, un mondo ostile coperto da deserti, canyon e lande ghiacciate. Cacciatori di tecnologia chiamati **Operatori** esplorano le rovine di antichi laboratori e insediamenti abbandonati alla ricerca di preziosi hardware da rivendere nella metropoli di Sho-Gai, l'unica città del Pianeta.
