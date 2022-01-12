@@ -5,7 +5,10 @@
 <details>
   <summary>Indice dei contenuti</summary>
   
- TEST
+ TEST(#le-basi-del-gioco)
+ [Le basi del Gioco](#le-basi-del-gioco)
+ - test(#le-basi-del-gioco)
+  -[Le basi del Gioco](#le-basi-del-gioco)
   
 </details>
 
