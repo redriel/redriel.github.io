@@ -5,11 +5,7 @@
 <details>
   <summary>Indice dei contenuti</summary>
   
-  <li><a href="#le-basi-del-gioco">Heading 1</a>
-  <li><a href="#question_2">Heading 2</a>
-  <li><a href="#question_3">Heading 3</a>
-  <li><a href="#question_4">Heading 4</a>
-  <li><a href="#question_5">Heading 5</a>
+ TEST
   
 </details>
 
