@@ -79,6 +79,7 @@ Prima di iniziare a giocare è fondamentale familiarizzare con alcune parole chi
 Di seguito vengono elecati dei termini che riassumono i concetti base del gioco.
 
 **Operatore**
+
 Il personaggio di un giocatore. Ogni Operatore apprende delle abilità da usare in combattimento ed è completamente personalizzabile nell'aspetto e nella personalità.
 
 **Admin**
