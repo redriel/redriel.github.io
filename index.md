@@ -1,5 +1,7 @@
 ## CYBERNAUT RPG - Manuale di Gioco
 
+[toc]
+
 **CYBERNAUT** è un gioco di ruolo da tavolo ambientato su un pianeta senza nome, chiamato semplicemente **Pianeta**, un mondo ostile coperto da deserti, canyon e lande ghiacciate. Cacciatori di tecnologia chiamati **Operatori** esplorano le rovine di antichi laboratori e insediamenti abbandonati alla ricerca di preziosi hardware da rivendere nella metropoli di Sho-Gai, l'unica città del Pianeta.
 
 In CYBERNAUT ci sono poche regole da imparare, in breve tempo sarai in grado di creare il tuo Operatore ed iniziare ad esplorare le lande inospitali del Pianeta.
@@ -22,60 +24,46 @@ Prima di iniziare a giocare è fondamentale familiarizzare con alcune parole chi
 
 Di seguito vengono elecati dei termini che riassumono i concetti base del gioco.
 
-#### Operatore
-
+**Operatore**
 Il personaggio di un giocatore. Ogni Operatore apprende delle abilità da usare in combattimento ed è completamente personalizzabile nell'aspetto e nella personalità.
 
-#### Admin
-
+**Admin**
 La persona che conduce il gioco. Un Admin deve avere una buona conoscenza delle regole e delle meccaniche
 
-#### Parametro
-
+**Parametro**
 Valore numerico che descrive una caratteristica fisica o mentale di un Operatore.
 
-#### Classe
-
+**Classe**
 La professione di un Operatore. Ogni classe è specializzata in diversi ambiti e dispone di Abilità uniche da utilizzare in Combattimento.
 
-#### Abilità
-
+**Abilità**
 Azione speciale che un Operatore può compiere in Combattimento.
 
-#### Capacità
-
+**Capacità**
 Azione speciale che un Operatore può compiere durante l'Esplorazione.
 
-#### Combattimento
-
+**Combattimento**
 Fase di gioco in cui gli Operatori ingaggiano uno o più nemici in uno scontro.
 
-#### Esplorazione
-
+**Esplorazione**
 Fase di gioco in cui gli Operatori interagiscono con l'ambiente circostante e con altri personaggi non ostili.
 
-#### Beneficio
-
+**Beneficio**
 Bonus passivo sempre a disposizione dell'Operatore.
 
-#### Competenza
-
+**Competenza**
 Idoneità di un Operatore nell'utilizzare un particolare Equipaggiamento.
 
-#### Grado
-
+**Grado**
 Valore che indica quanto un Operatore è esperto nell'utilizzo di Equipaggiamento o di una Capacità. Più alto è il Grado, più alta è la probabilità che l'azione venga eseguita con successo.
 
-#### Miglior Lancio
-
+**Miglior Lancio**
 Quando viene lanciato più di un dado per determinare l'esito di una azione, viene scelto il risultato più alto.
 
-#### Overload
-
+**Overload**
 Possibilità di utilizzare più Abilità di quelle consentite in un dato lasso di tempo. Utilizzare una Abilità in Overload comporta tuttavia dei malus.
 
-#### Test
-
+**Test**
 Prova per stabilire se l'azione di una Capacità ha successo o meno.
 
 ### Creare un Operatore
@@ -106,20 +94,16 @@ I Parametri Base sono quattro: **vigore**, **destrezza**, **lucidità** ed **ing
 - **configurazione fissa**: assegna i valori 5, 4, 3 e 2 ai Parametri Base nel modo che preferisci.
 - **configurazione casuale**: lancia un dado a 6 facce per ogni Parametro e assegna il risultato al Parametro che preferisci.
 
-#### Vigore
-
+Vigore
 Il Vigore rappresenta quanto un Operatore è resistente fisicamente. Il Vigore influenza la Salute e l'abilità nell'utilizzo di alcune categorie di armi.
 
-#### Destrezza
-
+Destrezza
 La Destrezza rappresenta quanto un Operatore è abile nello schivare attacchi nemici e nel reagire velocemente in Combattimneto. La Destrezza influenza la Reattività e l'abilità nell'utilizzo di alcune categorie di armi.
 
-#### Lucidità
-
+Lucidità
 La Lucidità rappresenta la fermezza mentale di un Operatore. La Lucidità influenza la resistenza allo Stress e l'utilizzo delle Abilità in Overload.
 
-#### Ingnegno
-
+Ingnegno
 L'ingegno rappresenta l'acume mentale dell'Operatore. L'Ingegno influenza il numero delle Capacità conosciute e la resistenza ai tentativi di hacking mentale.
 
 
@@ -128,30 +112,23 @@ L'ingegno rappresenta l'acume mentale dell'Operatore. L'Ingegno influenza il num
 
 I Parametri Avanzati sono calcolati sulla base dei Parametri Base e sull'Equipaggiamento utilizzato. Essi sono: **Salute**, **Stress**, **Reattività**, **Difesa**, **Barriera** e **ParaGEN**.
 
-#### Salute
-
+**Salute**
 La Salute rappresenta l'energia vitale di un Operatore. Quando la Salute scende a 0, l'Operatore muore. 
-
 La Salute è influenzata dal Vigore e dalla Classe.
 
-#### Stress
-
+**Stress**
 Lo Stress rappresenta la condizione mentale dell'Operatore. Il valore iniziale dello Stress è 0, ma può incrementare di 1 ogni volta che l'Operatore è vittima di psicosi o danni mentali. Quando lo Stress raggiunge il valore di 3, l'Operatore subisce una Crisi. 
 
-#### Reattività
-
+**Reattività**
 La Reattività indica quanto velocemente un Operatore interviene in Combattimento. La Reattività a sua volta contribuisce alla Difesa ed è influenzata dalla Destrezza.
 
-#### Difesa
-
+**Difesa**
 La Difesa indica quanto è difficile colpire un Operatore con un attacco. La Difesa è influenzata dall'Equipaggiamento e dalla Reattività.
 
-#### Scudo
-
+**Scudo**
 Lo Scudo indica quanti danni può mitigare un Operatore ogni volta che viene colpito. Lo Scudo è influenzato unicamente dall'Equipaggiamento.
 
-#### ParaGEN
-
+**ParaGEN**
 Il ParaGEN (*parametro genetico*) indica quanto è stato potenziato il genoma di un Operatore. Ogni Operatore inizia con un ParaGEN pari a 1 e può arrivare ad un massimo di 5. Ogni volta che il ParaGEN aumenta, l'Operatore ottiene bonus permanenti.
 
 *N.B.* *Se l'Operatore è un Sync, il ParaGEN è sostituito dalla **Versione Software***.
@@ -238,6 +215,8 @@ Quando un Operatore seleziona una Classe ottiene un valore di Salute Iniziale, c
 
 Ogni Classe è caratterizzata da una **Abilità Chiave** (contrassegnata in grassetto) e da altre 3 Abilità. Quando selezioni una Classe, ottieni automaticamente l'Abilità Chiave e 2 Abilità a scelta tra le 3 disponibili.
 
+Le Classi forniscono inoltre delle Capacità: se sei competente in una Capacità, ottieni 1 Grado in essa.
+
 
 
 ### Agente
@@ -248,7 +227,7 @@ Gli Agenti sono persone d'azione in grado di gettarsi in mezzo alla mischia, pro
 
 | Beneficio          | Effetto                                                      |
 | ------------------ | ------------------------------------------------------------ |
-| Salute dell'Agente | A paraGEN 1 inizi con un valore di Salute pari a 8. Ogni volta che il tuo paraGEN aumenta, la tua Salute incrementa di 1d8 |
+| Salute dell'Agente | 8, poi 1d8                                                   |
 | Cecchino           | Quando mandi a segno un Colpo Critico con un Vettore, aumenti il danno di 1 |
 
 #### Competenze
@@ -279,7 +258,7 @@ I Ghonin sono artisti marziali, ladri esperti, abili con le protolame e soprattu
 
 | Beneficio         | Effetto                                                      |
 | ----------------- | ------------------------------------------------------------ |
-| Salute del Ghonin | A paraGEN 1 inizi con un valore di Salute pari a 4. Ogni volta che il tuo paraGEN aumenta, la tua Salute incrementa di 1d4 |
+| Salute del Ghonin | 4, poi 1d4                                                   |
 | Protomaestro      | I tuoi Colpi Critici con le Protoarmi ignorano lo Scudo nemico |
 
 #### Competenze
@@ -317,7 +296,7 @@ I Teurghi sono medici esperti, abili con gli esplosivi e con le droghe. Nel loro
 
 | Beneficio           | Effetto                                                      |
 | ------------------- | ------------------------------------------------------------ |
-| *Salute del Teurgo* | A paraGEN 1 inizi con un valore di Salute pari a 6. Ogni volta che il tuo paraGEN aumenta, la tua Salute incrementa di 1d6 |
+| *Salute del Teurgo* | 6, poi 1d6                                                   |
 | *Misticismo*        | La prima volta che durante un Combattimento subisci una Crisi, ignorala |
 
 #### Competenze
@@ -346,7 +325,7 @@ Gli Sheller sono gli unici in grado di accedere alla SHELL, il terminale metafis
 
 | Beneficio              | Effetto                                                      |
 | ---------------------- | ------------------------------------------------------------ |
-| *Salute dello SHELLER* | A paraGEN 1 inizi con un valore di Salute pari a 4. Ogni volta che il tuo paraGEN aumenta, la tua Salute incrementa di 1d4 |
+| *Salute dello SHELLER* | 4, poi 1d4                                                   |
 | Converter              | Puoi convertire 3 volumi di Ferraglia in un oggetto casuale. |
 
 #### Competenze
@@ -392,7 +371,7 @@ Di seguito verranno illustrati tutti i tipi di equipaggiamento, divisi per categ
 
 I vettori sono fucili di diverso calibro e dimensione alimentati da energia parasinottica. Questo significa che non hanno bisogno di munizioni, ma possono sparare una sola volta per turno. I vettori a loro volta si suddividono in quattro classi: **leggeri**, **automatici**, **d'assalto** e **di precisione**.
 
-#### Vettori Leggeri
+**Vettori Leggeri**
 
 | Nome      | Danno | Raggio | Potenziale | Proprietà | Costo |
 | --------- | :---: | :----: | :--------: | --------- | ----- |
@@ -400,7 +379,7 @@ I vettori sono fucili di diverso calibro e dimensione alimentati da energia para
 | Cometa    |  1d4  |   CR   |   Vigore   | Autoshoot | 150 G |
 | Bandito 9 |  1d6  |   M    |   Vigore   | Laser     | 250 G |
 
-#### Vettori Automatici
+**Vettori Automatici**
 
 | Nome     | Danno | Raggio | Potenziale | Proprietà | Costo |
 | -------- | :---: | :----: | :--------: | --------- | ----- |
@@ -408,7 +387,7 @@ I vettori sono fucili di diverso calibro e dimensione alimentati da energia para
 | Oculus   |  1d6  |   CR   |   Vigore   | Flare     | 300 G |
 | QAZAR 66 |  1d6  |   CR   |   Vigore   | Blast     | 350 G |
 
-#### Vettori d'Assalto
+**Vettori d'Assalto**
 
 | Nome   | Danno | Raggio | Potenziale | Proprietà | Costo |
 | ------ | :---: | :----: | :--------: | --------- | ----- |
@@ -416,7 +395,7 @@ I vettori sono fucili di diverso calibro e dimensione alimentati da energia para
 | Atom   |  1d8  |   LR   | Destrezza  | Laser     | 600 G |
 | VK2    | 1d10  |   CR   |   Vigore   | Blast     | 700 G |
 
-#### Vettori di Precisione
+**Vettori di Precisione**
 
 | Nome        | Danno | Raggio | Potenziale | Proprietà   | Costo  |
 | ----------- | :---: | :----: | :--------: | ----------- | ------ |
@@ -434,9 +413,9 @@ I vettori sono fucili di diverso calibro e dimensione alimentati da energia para
 
 ### Protoarmi
 
-Le protoarmi sono armi da mischia in nerite, materiale duttile ed estremamente tagliente. Le protolame hanno generalmente la forma di lunghi coltelli, mazze, katane, catene di dimensioni e fatture. Si dividono in tre classi: K1, K2 e K3.
+Le protoarmi sono armi da mischia in nerite, materiale duttile ed estremamente tagliente. Le protoarmi hanno generalmente la forma di lunghi coltelli, mazze, katane e martelli di varie dimensioni e forme. Si dividono in tre classi: K1, K2 e K3.
 
-#### Protoarmi K1
+**Protoarmi K1**
 
 | Nome   | Danno | Raggio | Potenziale | Proprietà | Costo |
 | ------ | :---: | :----: | :--------: | --------- | ----- |
@@ -444,7 +423,7 @@ Le protoarmi sono armi da mischia in nerite, materiale duttile ed estremamente t
 | Urumi  |  1d4  |   M    | Destrezza  | Urto      | 100 G |
 | Bataar |  1d6  |   CR   |   Vigore   | -         | 200 G |
 
-#### Protoarmi K2
+**Protoarmi K2**
 
 | Nome   | Danno | Raggio | Potenziale | Proprietà | Costo |
 | ------ | :---: | :----: | :--------: | --------- | ----- |
@@ -452,7 +431,7 @@ Le protoarmi sono armi da mischia in nerite, materiale duttile ed estremamente t
 | Estoss |  1d4  |   CR   | Destrezza  | Tagliente | 400 G |
 | Nomiko |  1d8  |   M    | Destrezza  | -         | 400 G |
 
-#### Protoarmi K3
+**Protoarmi K3**
 
 | Nome         | Danno | Raggio | Potenziale | Proprietà | Costo |
 | ------------ | :---: | :----: | :--------: | --------- | ----- |
@@ -471,7 +450,7 @@ Le protoarmi sono armi da mischia in nerite, materiale duttile ed estremamente t
 
 I gusci sono particolari armature prodotte dalle carcasse dei liplorg, lumache gigantesche ormai estinte. I gusci non sono in grado di resistere a colpi diretti dei vettori e sono meno dure della nerite, ma sono comunque in grado di fornire protezione. I gusci si divono in 3 classi: leggeri, medi e pesanti.
 
-#### Gusci leggeri
+**Gusci leggeri**
 
 | Nome      | Protezione | Reattività | Scudo | Slot Chip | Costo |
 | --------- | :--------: | :--------: | :---: | :-------: | ----- |
@@ -479,7 +458,7 @@ I gusci sono particolari armature prodotte dalle carcasse dei liplorg, lumache g
 | Tagelmust |     2      |     0      |   0   |     1     | 100 G |
 | Dendra    |     1      |     0      |   0   |     2     | 150 G |
 
-#### Gusci medi
+**Gusci medi**
 
 | Nome   | Protezione | Reattività | Scudo | Slot Chip | Costo |
 | ------ | :--------: | :--------: | :---: | :-------: | ----- |
@@ -487,7 +466,7 @@ I gusci sono particolari armature prodotte dalle carcasse dei liplorg, lumache g
 | Neurok |     3      |     -1     |   1   |     1     | 300 G |
 | Mughal |     3      |     -1     |   2   |     1     | 300 G |
 
-#### Gusci pesanti
+**Gusci pesanti**
 
 | Nome       | Protezione | Reattività | Scudo | Slot Chip | Costo |
 | ---------- | :--------: | :--------: | :---: | :-------: | ----- |
@@ -624,13 +603,13 @@ Quando esegui un Colpo Critico, puoi decidere se massimizzare il danno, ossia no
 
 
 
-### Abilità e Overclock
+### Abilità e Overload
 
-Durante il tuo Loop puoi utilizzare tutte le Abilità che vuoi. Tuttavia, se nello stesso Combattimento decidi di utilizzare la stessa Abilità più volte, incorri in un Overclock.
+Durante il tuo Loop puoi utilizzare tutte le Abilità che vuoi. Tuttavia, se nello stesso Combattimento decidi di utilizzare la stessa Abilità più volte, incorri in un Overload.
 
-La prima volta che utilizzi una Abilità in Overclock subisci una Crisi. Dalla seconda volta in poi guadagni 1 Stress.
+La prima volta che utilizzi una Abilità in Overload subisci una Crisi. Dalla seconda volta in poi guadagni 1 Stress.
 
-Alcune Abilità hanno la dicitura [⟲]. Significa che puoi usare queste Abilità al di fuori del tuo Loop. Puoi usare 1 sola Abilità [⟲] tra la fine del tuo precedente Loop e l'inizio del prossimo. Questo limite non può essere aggirato tramite Overclock. Per il resto, le Abilità [⟲] seguono le regole delle Abilità normali.
+Alcune Abilità hanno la dicitura [⟲]. Significa che puoi usare queste Abilità al di fuori del tuo Loop. Puoi usare 1 sola Abilità [⟲] tra la fine del tuo precedente Loop e l'inizio del prossimo. Questo limite non può essere aggirato tramite Overload. Per il resto, le Abilità [⟲] seguono le regole delle Abilità normali.
 
 
 
@@ -658,7 +637,7 @@ Si verifica una Crisi quando:
 - si subisce un attacco mentale
 - si fallisce una azione pericolosa
 - si ottiene la condizioneFerito
-- si usa una Abilità in Overclock
+- si usa una Abilità in Overload
 
 Ogni volta che un Operatore affronta una Crisi, deve lanciare un numero di d10 pari al suo punteggio di Lucidità e prendere il risultato migliore. Se il risultato è pari o superiore a 8, non succede nulla. Altrimenti, il suo punteggio di Stress incrementa di 1.
 
