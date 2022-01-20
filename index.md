@@ -454,7 +454,7 @@ I vettori sono fucili di diverso calibro e dimensione alimentati da energia para
 | Epilogo SVN |  2d6  |  SLR   | Destrezza  | Mira        | 1000 G |
 | Jundic      |  2d4  |  SLR   |   Vigore   | Mira, Laser | 900 G  |
 
-#### Proprietà dei Vettori
+### Proprietà dei Vettori
 
 - **Laser**: in caso di Colpo Critico, ignora lo Scudo
 - **Mira**: richiede 2 Azioni
@@ -491,7 +491,7 @@ Le protoarmi sono armi da mischia in nerite, materiale duttile ed estremamente t
 | Placca Delta |  1d8  |   M    |   Vigore   | Urto      | 450G  |
 | Abraj        |  2d4  |   M    | Destrezza  | Mulino    | 600 G |
 
-#### Proprietà Protoarmi
+### Proprietà Protoarmi
 
 - **Tagliente**: se infliggi danno con quest'arma, il bersaglio subisce 1 danno aggiuntivo all'inizio del suo prossimo Loop
 - **Stordente**: se infliggi un Colpo Critico con quest'arma, il bersaglio può compiere solo 1 Azione durante il suo prossimo Loop
