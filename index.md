@@ -426,7 +426,7 @@ I vettori sono fucili di diverso calibro e dimensione alimentati da energia para
 **Vettori Leggeri**
 
 | Nome      | Danno | Raggio | Potenziale | Proprietà | Costo |
-| --------- | :---: | :----: | :--------: | --------- | ----- |
+| --------- | ----- | ------ | ---------- | --------- | ----- |
 | Dente RR  |  1d4  |   CR   | Destrezza  | Flare     | 150 G |
 | Cometa    |  1d4  |   CR   |   Vigore   | Autoshoot | 150 G |
 | Bandito 9 |  1d6  |   M    |   Vigore   | Laser     | 250 G |
