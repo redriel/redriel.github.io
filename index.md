@@ -434,7 +434,7 @@ I vettori sono fucili di diverso calibro e dimensione alimentati da energia para
 **Vettori Automatici**
 
 | Nome     | Danno | Raggio | Potenziale | Proprietà | Costo |
-| -------- | :---: | :----: | :--------: | --------- | ----- |
+| -------- | ----- | ------ | ---------- | --------- | ----- |
 | Alpha 1  |  1d4  |   LR   | Destrezza  | -         | 200 G |
 | Oculus   |  1d6  |   CR   |   Vigore   | Flare     | 300 G |
 | QAZAR 66 |  1d6  |   CR   |   Vigore   | Blast     | 350 G |
@@ -442,7 +442,7 @@ I vettori sono fucili di diverso calibro e dimensione alimentati da energia para
 **Vettori d'Assalto**
 
 | Nome   | Danno | Raggio | Potenziale | Proprietà | Costo |
-| ------ | :---: | :----: | :--------: | --------- | ----- |
+| ------ | ----- | ------ | ---------- | --------- | ----- |
 | TOR-98 |  1d6  |  SLR   | Destrezza  | Autoshoot | 650 G |
 | Atom   |  1d8  |   LR   | Destrezza  | Laser     | 600 G |
 | VK2    | 1d10  |   CR   |   Vigore   | Blast     | 700 G |
@@ -450,7 +450,7 @@ I vettori sono fucili di diverso calibro e dimensione alimentati da energia para
 **Vettori di Precisione**
 
 | Nome        | Danno | Raggio | Potenziale | Proprietà   | Costo  |
-| ----------- | :---: | :----: | :--------: | ----------- | ------ |
+| ----------- | ----- | ------ | ---------- | ----------- | ------ |
 | Epilogo SVN |  2d6  |  SLR   | Destrezza  | Mira        | 1000 G |
 | Jundic      |  2d4  |  SLR   |   Vigore   | Mira, Laser | 900 G  |
 
@@ -470,7 +470,7 @@ Le protoarmi sono armi da mischia in nerite, materiale duttile ed estremamente t
 **Protoarmi K1**
 
 | Nome   | Danno | Raggio | Potenziale | Proprietà | Costo |
-| ------ | :---: | :----: | :--------: | --------- | ----- |
+| ------ | ----- | ------ | ---------- | --------- | ----- |
 | Khanda |  1d4  |   M    |   Vigore   | Tagliente | 100 G |
 | Urumi  |  1d4  |   M    | Destrezza  | Urto      | 100 G |
 | Bataar |  1d6  |   CR   |   Vigore   | -         | 200 G |
@@ -478,7 +478,7 @@ Le protoarmi sono armi da mischia in nerite, materiale duttile ed estremamente t
 **Protoarmi K2**
 
 | Nome   | Danno | Raggio | Potenziale | Proprietà | Costo |
-| ------ | :---: | :----: | :--------: | --------- | ----- |
+| ------ | ----- | ------ | ---------- | --------- | ----- |
 | Jitte  |  1d6  |   M    |   Vigore   | Stordente | 350 G |
 | Estoss |  1d4  |   CR   | Destrezza  | Tagliente | 400 G |
 | Nomiko |  1d8  |   M    | Destrezza  | -         | 400 G |
@@ -486,7 +486,7 @@ Le protoarmi sono armi da mischia in nerite, materiale duttile ed estremamente t
 **Protoarmi K3**
 
 | Nome         | Danno | Raggio | Potenziale | Proprietà | Costo |
-| ------------ | :---: | :----: | :--------: | --------- | ----- |
+| ------------ | ----- | ------ | ---------- | --------- | ----- |
 | Zulfiq       |  1d4  |   LR   |   Vigore   | -         | 500 G |
 | Placca Delta |  1d8  |   M    |   Vigore   | Urto      | 450G  |
 | Abraj        |  2d4  |   M    | Destrezza  | Mulino    | 600 G |
@@ -505,7 +505,7 @@ I gusci sono particolari armature prodotte dalle carcasse dei liplorg, lumache g
 **Gusci leggeri**
 
 | Nome      | Protezione | Reattività | Scudo | Slot Upgrade | Costo |
-| --------- | :--------: | :--------: | :---: | :-------: | ----- |
+| --------- | ---------- | ---------- | ----- | --------- | ----- |
 | Briggan   |     1      |     0      |   1   |     1     | 100 G |
 | Tagelmust |     2      |     0      |   0   |     1     | 100 G |
 | Dendra    |     1      |     0      |   0   |     2     | 150 G |
@@ -513,7 +513,7 @@ I gusci sono particolari armature prodotte dalle carcasse dei liplorg, lumache g
 **Gusci medi**
 
 | Nome   | Protezione | Reattività | Scudo | Slot Upgrade | Costo |
-| ------ | :--------: | :--------: | :---: | :-------: | ----- |
+| ------ | ---------- | ---------- | ----- | --------- | ----- |
 | Zhan   |     2      |     -1     |   1   |     2     | 250 G |
 | Neurok |     3      |     -1     |   1   |     1     | 300 G |
 | Mughal |     3      |     -1     |   2   |     1     | 300 G |
@@ -521,7 +521,7 @@ I gusci sono particolari armature prodotte dalle carcasse dei liplorg, lumache g
 **Gusci pesanti**
 
 | Nome       | Protezione | Reattività | Scudo | Slot Upgrade | Costo |
-| ---------- | :--------: | :--------: | :---: | :-------: | ----- |
+| ---------- | ---------- | ---------- | ----- | --------- | ----- |
 | Tylinghit  |     3      |     -2     |   2   |     2     | 600 G |
 | Gibus      |     4      |     -3     |   2   |     2     | 600 G |
 | Kasenburst |     4      |     -3     |   3   |     1     | 700 G |
@@ -531,7 +531,7 @@ I gusci sono particolari armature prodotte dalle carcasse dei liplorg, lumache g
 Gli Upgrade sono oggetti che conferiscono bonus passivi speciali. Il numero di Upgrade equipaggiabile è definito dal tipo di Guscio indossato.
 
 | Nome      |     Effetto     | Rarità | Costo  |
-| --------- | :-------------: | :----: | :----: |
+| --------- | --------------- | ------ | ------ |
 | Nanoscudo | Ottieni 1 Scudo |  Raro  | 2000 G |
 
 ### Chip
@@ -549,7 +549,7 @@ Gli strumenti sono oggetti con cui svolgere azioni speciali. Alcuni strumenti, c
 **N.B.** Protoarmi e Vettori occupano tutti 3V, mentre i Gusci occupano 5V.
 
 | Nome             |  Utilizzo  | Volume |  Costo   | Effetto                                                |
-| ---------------- | :--------: | :----: | :------: | ------------------------------------------------------ |
+| ---------------- | ---------- | ------ | -------- | ------------------------------------------------------ |
 | Antidolorifico   |  singolo   |   1V   |  100 G   | Cura 1d6                                               |
 | Medikit          |  singolo   |   1V   |  200 G   | Cura 1d6 oltre la Soglia                               |
 | Psicofarmaci     |  singolo   |   1V   |  300 G   | Rimuove 1 punto Stress                                 |
@@ -570,7 +570,7 @@ Gli strumenti sono oggetti con cui svolgere azioni speciali. Alcuni strumenti, c
 ### Servizi
 
 | Nome                       |         Descrizione         |          Costo           |
-| -------------------------- | :-------------------------: | :----------------------: |
+| -------------------------- | --------------------------- | ------------------------ |
 | Rifornimento Nucleoborsa   |  Rifornimento della Linfa   |           50 G           |
 | Retrace genetico           |  Scelta Abilità di Specie   |          500 G           |
 | Retrace mnemonico          |  Scelta Abilità di Classe   |         1 000 G          |
@@ -701,7 +701,7 @@ Ogni volta che un Operatore affronta una Crisi, deve lanciare un numero di d10 p
 Quando il punteggio di Stress raggiunge il valore 3, l'Operatore subisce una Psicosi. Il giocatore lancia 1d6 ed applica l'azione riportata nella tabella:
 
 | Risultato |      Effetto       | Descrizione                                                  |
-| :-------: | :----------------: | ------------------------------------------------------------ |
+| --------- | ------------------ | ------------------------------------------------------------ |
 |     1     |  *Determinazione*  | Il tuo prossimo attacco è un Colpo Critico.                  |
 |     2     |    *Nichilismo*    | Subisci 1d4 danni.                                           |
 |     3     |     *Amnesia*      | Il tuo Loop finisce. Durante il tuo prossimo Loop non puoi agire. |
